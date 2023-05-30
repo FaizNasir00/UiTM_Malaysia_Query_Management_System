@@ -1,0 +1,159 @@
+[04-Apr-2023 02:24:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 02:24:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 02:24:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 02:25:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 02:25:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 02:25:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 02:27:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 02:27:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 02:27:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 02:29:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 02:29:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 02:29:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 02:29:47 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 02:29:47 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/new-query.php on line 7
+[04-Apr-2023 02:29:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/new-query.php on line 8
+[04-Apr-2023 02:30:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 02:30:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/new-query.php on line 7
+[04-Apr-2023 02:30:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/new-query.php on line 8
+[04-Apr-2023 02:30:18 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 02:30:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 02:30:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 04:14:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:14:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:14:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:14:55 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:14:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:14:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:15:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:15:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:15:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:15:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:15:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:15:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:22:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:22:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:22:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:28:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:28:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:28:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:28:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:28:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:28:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:28:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:29:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:29:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/new-query.php on line 7
+[04-Apr-2023 04:29:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/new-query.php on line 8
+[04-Apr-2023 04:29:09 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:29:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 04:29:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 04:29:29 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:29:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/new-query.php on line 7
+[04-Apr-2023 04:29:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/new-query.php on line 8
+[04-Apr-2023 04:29:34 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:29:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 04:29:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 04:32:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:32:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 04:32:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 04:32:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:32:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:32:51 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/inqkacom/iqaquery.com/functions.php on line 4
+[04-Apr-2023 04:32:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/functions.php on line 102
+[04-Apr-2023 04:32:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/functions.php on line 103
+[04-Apr-2023 04:32:51 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/functions.php on line 104
+[04-Apr-2023 04:32:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/functions.php on line 108
+[04-Apr-2023 04:32:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/inqkacom/iqaquery.com/dbcon.php:11) in /home/inqkacom/iqaquery.com/functions.php on line 121
+[04-Apr-2023 04:32:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:32:56 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:32:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:32:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:44:44 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:44:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:44:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:45:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:45:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:45:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:45:24 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:45:25 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:45:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:45:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 04:55:15 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 04:55:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 04:55:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 05:01:57 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 05:01:57 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 05:01:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 06:55:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 06:55:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 06:55:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 07:06:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:06:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 07:06:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 07:13:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:13:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 07:13:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 07:13:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:13:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:13:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:13:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 07:13:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 07:15:12 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:15:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 07:15:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 07:15:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:15:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 07:15:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 07:15:30 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:15:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 07:15:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 07:15:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:15:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/places.php on line 7
+[04-Apr-2023 07:15:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/places.php on line 8
+[04-Apr-2023 07:15:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:15:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/new-query.php on line 7
+[04-Apr-2023 07:15:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/new-query.php on line 8
+[04-Apr-2023 07:15:38 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:15:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 07:15:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 07:20:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:20:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 07:20:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[04-Apr-2023 07:20:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/dbcon.php on line 8
+[04-Apr-2023 07:20:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/inqkacom/iqaquery.com/query.php on line 7
+[04-Apr-2023 07:20:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/query.php on line 8
+[08-Apr-2023 22:52:00 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[09-Apr-2023 12:47:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-query.php on line 10
+[10-Apr-2023 00:17:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[11-Apr-2023 21:55:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[17-Apr-2023 12:04:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[25-Apr-2023 13:09:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[27-Apr-2023 07:37:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-query.php on line 10
+[28-Apr-2023 07:40:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-query.php on line 10
+[30-Apr-2023 05:06:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-query.php on line 10
+[02-May-2023 06:56:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[09-May-2023 08:08:41 UTC] PHP Warning:  require_once(./config.php): failed to open stream: No such file or directory in /home/inqkacom/iqaquery.com/register.php on line 3
+[09-May-2023 08:08:41 UTC] PHP Fatal error:  require_once(): Failed opening required './config.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/inqkacom/iqaquery.com/register.php on line 3
+[14-May-2023 22:03:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-query.php on line 10
+[15-May-2023 18:13:30 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[18-May-2023 05:23:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[19-May-2023 02:03:32 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/config.php on line 8
+[19-May-2023 02:03:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'inqkacom_faiz123'@'localhost' to database 'inqkacom_iqa_query' in /home/inqkacom/iqaquery.com/config.php on line 8
+[19-May-2023 08:41:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/inqkacom/iqaquery.com/user-edit-query.php on line 6
+[24-May-2023 10:36:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[25-May-2023 08:19:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-query.php on line 10
+[25-May-2023 08:20:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-query.php on line 10
+[25-May-2023 09:30:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[28-May-2023 16:51:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/edit-place.php on line 10
+[29-May-2023 01:32:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 22
+[29-May-2023 01:34:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 22
+[29-May-2023 01:58:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 22
+[29-May-2023 02:05:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 21
+[29-May-2023 02:05:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 21
+[29-May-2023 02:06:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 21
+[29-May-2023 02:06:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 21
+[29-May-2023 02:07:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 22
+[29-May-2023 02:08:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 22
+[29-May-2023 02:13:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/inqkacom/iqaquery.com/view-query.php on line 24
+[29-May-2023 02:23:34 UTC] PHP Warning:  Use of undefined constant user_id - assumed 'user_id' (this will throw an Error in a future version of PHP) in /home/inqkacom/iqaquery.com/view-query.php on line 22
+[29-May-2023 02:25:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/inqkacom/iqaquery.com/view-query.php on line 22
