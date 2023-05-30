@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost";
-$username = "inqkacom_iskandar123";
-$password = "iskandarhensem";
-$dbname = "inqkacom_iqa_query";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 
 $conn = mysqli_connect($servername, $username, $password, $dbname);
 
